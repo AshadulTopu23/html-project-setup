@@ -10278,4 +10278,94 @@ a:focus, a:hover {
 
 .fs-14 {
   font-size: 14px;
+}
+
+.tpc-1 {
+  color: var(--primary-color);
+}
+
+.tpc-2 {
+  color: var(--primary-color-02);
+}
+
+.tsc-1 {
+  color: var(--secondary-color);
+}
+
+.tsc-2 {
+  color: var(--secondary-color-02);
+}
+
+.tnc-1 {
+  color: var(--neutral-01);
+}
+
+.tnc-2 {
+  color: var(--neutral-02);
+}
+
+.tnc-3 {
+  color: var(--neutral-03);
+}
+
+.tnc-4 {
+  color: var(--neutral-04);
+}
+
+.tnc-5 {
+  color: var(--neutral-05);
+}
+
+.tnc-6 {
+  color: var(--neutral-06);
+}
+
+.tnc-7 {
+  color: var(--neutral-07);
+}
+
+.tnc-10 {
+  color: var(--neutral-10);
+}
+
+.bgc-1 {
+  background-color: var(--bg-color-01);
+}
+
+.bgc-3 {
+  background-color: var(--bg-color-03);
+}
+
+.bgc-4 {
+  background-color: var(--bg-color-04);
+}
+
+.bglc-1 {
+  background-color: var(--bg-color-linear-01);
+}
+
+.bglc-3 {
+  background-color: var(--bg-color-linear-03);
+}
+
+.bglc-4 {
+  background-color: var(--bg-color-linear-04);
+}
+
+.bglc-5 {
+  background-color: var(--bg-color-linear-05);
+}
+
+.sec-pad {
+  padding: 120px 0;
+}
+@media (max-width: 991px) {
+  .sec-pad {
+    padding: 80px 0;
+  }
+}
+@media (max-width: 575px) {
+  .sec-pad {
+    padding: 60px 0;
+  }
 }/*# sourceMappingURL=style.css.map */
