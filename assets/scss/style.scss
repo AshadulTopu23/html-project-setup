@@ -1,0 +1,21 @@
+
+// import plugin
+@use '../css/plugin/animate.css';
+@use '../css/plugin/font-awesome_6.4.0_css_all.min.css';
+@use '../css/plugin/magnific-popup.js_1.1.0_magnific-popup.min.css';
+@use '../css/plugin/odometer.js_0.4.7_themes_odometer-theme-minimal.css';
+@use '../css/plugin/swiper-bundle.min.css';
+
+
+// import components
+@use 'components/typography';
+@use 'components/animation';
+@use 'components/button';
+
+
+// import section
+@use 'sections/navbar';
+@use 'sections/hero';
+@use 'sections/footer';
+
+@use 'global';
